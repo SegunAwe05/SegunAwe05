@@ -1,7 +1,7 @@
 Hello I am Segun Awe,
 I am Intrested in App development, working with data, and sports.
 I am a information Science student at the Univeristy Of Maryland expected to graduate May 2024.
-I am currently looking for a SwiftUI iOS dev internship for the summer of 2021.
+I am currently looking for a SwiftUI iOS dev internship for the summer of 2022.
 You can reach me at segunawe05@gmail.com.
 
 <!---
