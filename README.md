@@ -5,8 +5,8 @@ I am Segun Awe, an Information Science student at the University Of Maryland. Us
 - You can reach me at segunawe05@gmail.com.
 
 ## 👨‍💻 Skills 
-- 📱 Swift, Python, C++, C, Javascript
-- 🔨 Xcode, SwiftUI, UIkit, CocoaPods
+- 📱 Swift, Python, C++, C, Java, Javascript
+- 🔨 Xcode, SwiftUI, UIkit, CocoaPods, Spring
 - 📅 MySQL, SQL, Firebase, Pandas
 - ⚙️ ROS, OpenCV, ZED, Linux, Git
 - 👷‍♂️ MVVM, MVC
