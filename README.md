@@ -1,5 +1,5 @@
 ## Hello World! 👋
-I am Segun Awe, an Information Science student at the University Of Maryland. Using my coding skills to innovate and impact the world! 
+I am Segun Awe, an undergraduate senior Information Science student at the University Of Maryland. Using my coding skills to innovate and impact the world! 
 - I love all things Swift
 - I am currently looking for an iOS dev position for post-grad / entry-level opportunities.
 - You can reach me at segunawe05@gmail.com.
