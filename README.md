@@ -5,7 +5,7 @@ I am Segun Awe, a Software Engineer who uses my coding skills to innovate and im
 - You can reach me at segunawe05@gmail.com.
 
 ## 👨‍💻 Skills 
-- 📱 Swift, Python, C++, C, Java, Javascript
+- 📱 Swift, Python, C++, C, Java, Javascript, Typescript
 - 🔨 SwiftUI, UIkit, Spring, React, Node.Js, Express.js, Flask
 - 📅 MySQL, SQL, Firebase, Pandas
 - ⚙️ Xcode, ROS, OpenCV, ZED, Linux, Git
